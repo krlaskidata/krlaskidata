@@ -1,6 +1,6 @@
-# KRLA-SKIDATA
+# 𝑲𝑹𝑳𝑨𝑺𝑲𝑰𝑫𝑨𝑻𝑨 / 𝒂𝒌𝒂: 𝒐𝒛𝒛
 
-In Linux we trust — Windows is where problems go to exist.
+𝑰𝒏 𝑳𝒊𝒏𝒖𝒙 𝒘𝒆 𝒕𝒓𝒖𝒔𝒕 — 𝑾𝒊𝒏𝒅𝒐𝒘𝒔 𝒊𝒔 𝒘𝒉𝒆𝒓𝒆 𝒑𝒓𝒐𝒃𝒍𝒆𝒎𝒔 𝒈𝒐 𝒕𝒐 𝒆𝒙𝒊𝒔𝒕.
 
 ---
 
