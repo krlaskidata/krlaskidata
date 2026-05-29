@@ -5,14 +5,6 @@ Interested in software development, backend and modern web technologies
 
 ---
 
-## Technical Skills
-
-- C & C#
-- JavaScript  
-- Git & GitHub  
-
----
-
 ## GitHub Overview
 
 <p align="center">
