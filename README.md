@@ -1,7 +1,6 @@
 # KRLA-SKIDATA
 
-Apprentice  
-Interested in software development, backend and modern web technologies  
+In Linux we trust — Windows is where problems go to exist.
 
 ---
 
