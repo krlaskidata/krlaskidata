@@ -13,9 +13,9 @@ Interested in software development, backend and modern web technologies
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krlaskidata&show_icons=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=krlaskidata&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krlaskidata&show_icons=true)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=krlaskidata&layout=compact)
 
 ---
 
