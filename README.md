@@ -4,7 +4,7 @@
 
 ---
 
-## GitHub Overview
+## 𝑮𝒊𝒕𝑯𝒖𝒃 𝑶𝒗𝒆𝒓𝒗𝒊𝒆𝒘
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=krlaskidata&show_icons=true&theme=tokyonight" height="150"/>
@@ -13,7 +13,7 @@
 
 ---
 
-## Activity
+## 𝑨𝒄𝒕𝒊𝒗𝒊𝒕𝒚
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=krlaskidata&theme=tokyonight" height="180"/>
@@ -21,7 +21,7 @@
 
 ---
 
-## Detailed Statistics
+## 𝑫𝒆𝒕𝒂𝒊𝒍𝒆𝒅 𝑺𝒕𝒂𝒕𝒊𝒔𝒕𝒊𝒄𝒔
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krlaskidata&theme=github_dark"/>
