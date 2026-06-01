@@ -15,6 +15,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.PAT_TOKEN }}
 
       - name: Make a change
         run: |
@@ -22,9 +24,9 @@ jobs:
 
       - name: Commit and push
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
+          git config user.name "krlaskidata"
+          git config user.email "${{ secrets.USER_EMAIL }}"
           
           git add log.txt
-          git commit -m "chore: automated daily update" || echo "No changes"
+          git commit -m "chore: good morning commit"
           git push
