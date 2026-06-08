@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=krlaskidata&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=krlaskidata&layout=compact&theme=tokyonight" height="200"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=krlaskidata&layout=compact&theme=tokyonight" height="220"/>
 </p>
 
 ---
