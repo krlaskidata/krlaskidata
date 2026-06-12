@@ -29,6 +29,5 @@
 ## 𝑫𝒆𝒕𝒂𝒊𝒍𝒆𝒅 𝑺𝒕𝒂𝒕𝒊𝒔𝒕𝒊𝒄𝒔
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Best%20Grade-A%2B%20(2026)-blueviolet?style=for-the-badge" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krlaskidata&theme=github_dark"/>
 </p>
