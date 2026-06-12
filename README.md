@@ -1,6 +1,9 @@
 # 𝑲𝑹𝑳𝑨𝑺𝑲𝑰𝑫𝑨𝑻𝑨
 
 𝑰𝒏 𝑳𝒊𝒏𝒖𝒙 𝒘𝒆 𝒕𝒓𝒖𝒔𝒕 — 𝑾𝒊𝒏𝒅𝒐𝒘𝒔 𝒊𝒔 𝒘𝒉𝒆𝒓𝒆 𝒑𝒓𝒐𝒃𝒍𝒆𝒎𝒔 𝒈𝒐 𝒕𝒐 𝒆𝒙𝒊𝒔𝒕.
+<p align="center">
+<img src="https://img.shields.io/badge/Best%20Grade-A%2B%20(2026)-blueviolet?style=for-the-badge" />
+</p>
 
 ---
 
