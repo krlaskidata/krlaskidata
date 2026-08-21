@@ -10,10 +10,10 @@
 ## 𝑮𝒊𝒕𝑯𝒖𝒃 𝑶𝒗𝒆𝒓𝒗𝒊𝒆𝒘
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=krlaskidata&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=krlaskidata&show_icons=true&theme=tokyonight" height="150"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=krlaskidata&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krlaskidata&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 ---
