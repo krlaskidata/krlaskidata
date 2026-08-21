@@ -10,10 +10,10 @@
 ## 𝑮𝒊𝒕𝑯𝒖𝒃 𝑶𝒗𝒆𝒓𝒗𝒊𝒆𝒘
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krlaskidata&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=krlaskidata&show_icons=true&theme=tokyonight&cache_seconds=1800&count_private=true" height="150"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krlaskidata&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krlaskidata&layout=compact&theme=tokyonight&cache_seconds=1800" height="150"/>
 </p>
 
 ---
@@ -21,7 +21,7 @@
 ## 𝑨𝒄𝒕𝒊𝒗𝒊𝒕𝒚
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=krlaskidata&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krlaskidata&theme=tokyo-night&hide_border=true" width="100%"/>
 </p>
 
 ---
