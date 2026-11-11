@@ -13,13 +13,6 @@
 
 ---
 
-## 𝑨𝒄𝒕𝒊𝒗𝒊𝒕𝒚
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krlaskidata&theme=tokyo-night&hide_border=true" width="100%"/>
-</p>
-
----
 
 ## 𝑫𝒆𝒕𝒂𝒊𝒍𝒆𝒅 𝑺𝒕𝒂𝒕𝒊𝒔𝒕𝒊𝒄𝒔
 
